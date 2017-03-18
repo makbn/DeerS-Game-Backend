@@ -16,7 +16,7 @@ I welcome all pull requests. Here are some basic rules of your request:
 [mehdi akbarian](https://github.com/makbn) ([@makbn](https://www.twitter.com/makbn))
 
 
-#GNU General Public License v3
+# GNU General Public License v3
 
 You may copy, distribute and modify the software as long as you track changes/dates in source files. Any modifications to or software including (via compiler) GPL-licensed code must also be made available under the GPL along with build & install instructions.
 
